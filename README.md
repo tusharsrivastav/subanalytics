@@ -63,9 +63,9 @@ SubAnalytics is a subscription analytics tool designed to help SaaS businesses g
    ```
 
 ### Predictive Model Setup
-1. Navigate to the `ml` directory:
+1. Navigate to the `flask-backend` directory:
    ```bash
-   cd ../ml
+   cd ../flask-backend
    ```
 2. Install Python dependencies:
    ```bash
@@ -73,7 +73,7 @@ SubAnalytics is a subscription analytics tool designed to help SaaS businesses g
    ```
 3. Run the model:
    ```bash
-   python model.py
+   python app.py
    ```
 
 ## Usage
